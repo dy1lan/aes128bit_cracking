@@ -1,4 +1,7 @@
 # AES 128 bit Cracking Challenge
+
+This program won for Fastest Cracking time.
+
 This program is my first try at creating an AES Cracking tool. I have not implemented any parrallel optimization yet, but I plan to in the future.
 This was originally started as part of a cracking challenge for my college. 
 
